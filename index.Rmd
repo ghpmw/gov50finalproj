@@ -1,6 +1,6 @@
 ---
 title: "Gov 50 Final Project"
-author: "Your Name Here"
+author: "Greg Wong"
 description: "My final project"
 output:
   distill::distill_article:
@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+I am interested in exploring data related to the effects of differences in background (education, age, region) between "Leavers" and "Remainers" with regards to Brexit.
